@@ -1,0 +1,25 @@
+{
+  "particles":{
+    "number":{
+      "value": 100
+    },
+    "color": {
+      "value": "#fff"
+    },
+    "shape": {
+      "type": "circle",
+      "image":{
+        "src": "https://images.vexels.com/media/users/3/143349/isolated/preview/d4a9daa55995698be51b9abc7029bd3d-color-maneki-neko-cat-by-vexels.png"
+      }
+    },
+    "opacity":{
+      "value": 0.8
+    },
+    "size":{
+      "value": 10
+    },
+    "move":{
+      "speed": 3
+    }
+  }
+}
